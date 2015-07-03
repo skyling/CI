@@ -1,0 +1,1 @@
+<a href="/index.php/news">新闻</a>
