@@ -135,6 +135,8 @@ class Channel extends MY_Controller{
     public function modify($id=''){
         $data['title'] = "修改栏目";
         $this->loginView('channel/modify',$data);
+
         
+
     }
 }
